@@ -1,4 +1,4 @@
-# Correlation-Analysis
+# Analysis and Design Interestingness Measure of Correlation: From Association Mining to Correlation Analysis
 
 - This research paper was presented and published in National Conference on Computer Science and Security (COCSS)
 - Place: SVIT, Vasad, Vadodara Area, Gujarat, India
